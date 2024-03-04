@@ -1,0 +1,60 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Actual end),Custom field (Actual start),Custom field (Atlas project key),Custom field (Atlas project status),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Status Category,Status Category Changed
+"As a Web Dev Team member, I want to create a sign-up Page.",ACS567BOWL-23,10022,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Rahul Madishetty,712020:e352b1aa-a596-487d-8b4f-9c9e2b72a155,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,18/Feb/24 8:24 PM,18/Feb/24 11:23 PM,03/Mar/24 8:36 PM,18/Feb/24 11:23 PM,,0,WebAdmin,"Acceptance Criteria:
+
+# Create fields username, email, password, and confirm password.
+# Add all the necessary validation for the above fields and make them mandatory.
+# Create a sign-up button
+# The Password and Confirm Password fields should be obscured to maintain obscure security.
+# Create a toggle button between sign-in and sign-up.",,Uma Sowmya Puppala,,63e3d24b614cb4ba53028201,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000i:,,ACS567BO Sprint 1,,,5.0,,,,,,,Done,18/Feb/24 11:23 PM
+"As a Web Dev Team member, I want to create a sign in page.",ACS567BOWL-22,10021,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Rahul Madishetty,712020:e352b1aa-a596-487d-8b4f-9c9e2b72a155,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,18/Feb/24 8:20 PM,28/Feb/24 5:18 PM,03/Mar/24 3:53 PM,28/Feb/24 5:18 PM,,0,WebAdmin,"Acceptance Criteria:
+
+# A sign-in Form should be created with fields username/email and password.
+# Add the forgot username/password feature and sign-in button.
+# Add Input Validations for the username and password fields.
+# Maintain security for the Password field by obscuring it.",,Uma Sowmya Puppala,,63e3d24b614cb4ba53028201,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000i:i,,ACS567BO Sprint 1,,,5.0,,,,,,,Done,28/Feb/24 5:18 PM
+"As a Web Dev Team member, I want to create a Home/Landing Page.",ACS567BOWL-21,10020,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Rakesh Kumar Raushan,712020:1ae8866e-d408-4d52-a9db-a11faea0fb0d,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,18/Feb/24 8:15 PM,28/Feb/24 5:18 PM,03/Mar/24 3:53 PM,28/Feb/24 5:18 PM,,0,WebAdmin,"Acceptance Criteria:
+
+# Create a template of the Home Page 
+# Web Application Home Page should display the league scores, players list and game management.",,Uma Sowmya Puppala,,63e3d24b614cb4ba53028201,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000j:,,ACS567BO Sprint 1,,,5.0,,,,,,,Done,28/Feb/24 5:18 PM
+"As a Web Dev Team member, I want to research on the Web setup.",ACS567BOWL-20,10019,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Rahul Madishetty,712020:e352b1aa-a596-487d-8b4f-9c9e2b72a155,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,18/Feb/24 8:12 PM,18/Feb/24 10:58 PM,03/Mar/24 3:27 PM,18/Feb/24 8:30 PM,,0,WebAdmin,"Acceptance Criteria:
+
+
+1. Research the best approach to create the project and the technology to be used.
+
+2. Research the dependencies that would be required.",,Rahul Madishetty,Uma Sowmya Puppala,712020:e352b1aa-a596-487d-8b4f-9c9e2b72a155,63e3d24b614cb4ba53028201,,,,,,,,,,,,,,,,,,,,,,,,0|i0000c:9,,ACS567BO Sprint 1,,,2.0,,,,,,,Done,18/Feb/24 8:30 PM
+"As a Web Dev Team member, I want to create an initial setup for Web Application.",ACS567BOWL-19,10018,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Rahul Madishetty,712020:e352b1aa-a596-487d-8b4f-9c9e2b72a155,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,Uma Sowmya Puppala,63e3d24b614cb4ba53028201,18/Feb/24 8:01 PM,18/Feb/24 10:59 PM,18/Feb/24 11:21 PM,18/Feb/24 8:29 PM,,0,WebAdmin,"Acceptance Criteria:
+
+# Set up a Vite Project with all the initial necessary packages.
+# Set up the skeleton structure with all the files needed in an organized way.
+# Make sure to follow all the best practices.
+# Make sure to check if all the dependencies are created and met.
+# The Git version control is initialized and the project is pushed.
+# Set up the routing between all the pages.",,Rahul Madishetty,Uma Sowmya Puppala,712020:e352b1aa-a596-487d-8b4f-9c9e2b72a155,63e3d24b614cb4ba53028201,,,,,,,,,,,,,,,,,,,,,,,,0|i0000c:,,ACS567BO Sprint 1,,,3.0,,,,,,,Done,18/Feb/24 8:29 PM
+"As a mobile dev team member, I want to create a login screen for users to login",ACS567BOWL-10,10009,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Shravan Kumar Bachu,712020:978e2f55-49cc-44cc-af32-177e64117e8c,nikhilpittala7,631f6f50d1b3f6489b92cc71,nikhilpittala7,631f6f50d1b3f6489b92cc71,17/Feb/24 4:11 PM,18/Feb/24 5:46 PM,03/Mar/24 3:52 PM,18/Feb/24 5:46 PM,,0,,"Acceptance criteria:
+
+* The login screen should be implemented as a Flutter widget, with separate input fields for username/email and password.
+* Input validation should utilize Flutter's form validation features to ensure that both fields are filled out before allowing submission.
+* Passwords should be obscured using Flutter's {{ObscureText}} property to maintain security.",,nikhilpittala7,,631f6f50d1b3f6489b92cc71,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000f:,,ACS567BO Sprint 1,,,5.0,,,,,,,Done,18/Feb/24 5:46 PM
+"As a Mobile dev team member, I want to create an initial setup for the Application.",ACS567BOWL-9,10008,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Shravan Kumar Bachu,712020:978e2f55-49cc-44cc-af32-177e64117e8c,nikhilpittala7,631f6f50d1b3f6489b92cc71,nikhilpittala7,631f6f50d1b3f6489b92cc71,17/Feb/24 4:11 PM,18/Feb/24 5:46 PM,03/Mar/24 3:52 PM,18/Feb/24 5:46 PM,,0,,"Acceptance criteria:
+
+* The Flutter project is initialized using the latest stable version of Flutter SDK.
+* The project structure follows Flutter best practices and is organized for scalability and maintainability.
+* Git version control is initialized, and the project is pushed.
+* Necessary dependencies are added to the {{pubspec.yaml}} file, including Flutter SDK dependencies and any third-party libraries deemed necessary for the project.",,nikhilpittala7,,631f6f50d1b3f6489b92cc71,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000e:,,ACS567BO Sprint 1,,,2.0,,,,,,,Done,18/Feb/24 5:46 PM
+"As an API backend team member, I want to Send and get User credentials, So that I can authenticate users to login and use the app.",ACS567BOWL-3,10002,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Parth Manaktala,62570ffec23e5b006ab406ff,Omeshwari J,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,Omeshwari J,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,15/Feb/24 9:04 PM,03/Mar/24 3:27 PM,03/Mar/24 3:51 PM,18/Feb/24 9:10 PM,,0,backend,"*Acceptance Criteria:*
+
+* Verify sending the correct credentials and receiving user authentication confirmation along with user information.
+* Verify sending incorrect credentials and receiving an authentication error message or status code indicating unauthorized access.",,Omeshwari J,,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000l:,,ACS567BO Sprint 1,,,5.0,,,,,,,Done,18/Feb/24 9:10 PM
+"As an API backend team member, I want to have a JSON Web Token, So that the project will have a secure connection.",ACS567BOWL-2,10001,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Parth Manaktala,62570ffec23e5b006ab406ff,Omeshwari J,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,Omeshwari J,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,15/Feb/24 9:01 PM,18/Feb/24 9:10 PM,03/Mar/24 3:51 PM,18/Feb/24 9:10 PM,,0,backend,"*Acceptance Criteria:*
+
+*  The JWT should include an expiration time to ensure security and prevent unauthorized access after a defined period.
+* Upon successful authentication with valid credentials, the API should generate a JWT for the authenticated user.
+* The JWT should include an expiration time to ensure security and prevent unauthorized access after a defined period.
+* The API should return clear error messages and appropriate HTTP status codes in case of authentication failures, expired tokens, or other issues related to JWT validation.",,Omeshwari J,,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000k:,,ACS567BO Sprint 1,,,5.0,,,,,,,Done,18/Feb/24 9:10 PM
+"As an API backend team member, I want to develop functionality for user registration, allowing new users to create accounts with their personal details, so that they can access personalized features and save progress within the application.",ACS567BOWL-1,10000,Story,Done,ACS567BOWL,bowling-team-acs567,software,Parth Manaktala,62570ffec23e5b006ab406ff,,Medium,Done,Owaiz Mohammed,712020:33f2650a-cd9f-42aa-8c50-a916c235fef9,Omeshwari J,712020:01c6b130-da06-49d7-acfd-82ff1176e1d8,Parth Manaktala,62570ffec23e5b006ab406ff,12/Feb/24 7:30 PM,18/Feb/24 8:31 PM,03/Mar/24 3:49 PM,18/Feb/24 3:41 PM,,0,backend,"*Acceptance Criteria:*
+
+* Implement backend APIs to handle user registration requests securely.
+* Design a registration form endpoint that captures necessary user details such as name, email, and password.
+* Validate user input data to ensure proper format and uniqueness, including checks to prevent the use of duplicate email addresses.
+* Develop mechanisms for securely storing user credentials and personal information.
+* Provide confirmation responses to users upon successful creation of their accounts, indicating that the registration process was completed successfully.",,Parth Manaktala,,62570ffec23e5b006ab406ff,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000c:i,,ACS567BO Sprint 1,,,3.0,,,,,,,Done,18/Feb/24 3:41 PM
